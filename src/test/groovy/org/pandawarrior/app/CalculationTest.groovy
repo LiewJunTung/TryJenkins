@@ -5,6 +5,6 @@ package org.pandawarrior.app
  */
 class CalculationTest extends GroovyTestCase {
     void testAddition(){
-        assert Calculation.addition(1, 1) == 2
+        assert Calculation.addition(1, 3) == 2
     }
 }
